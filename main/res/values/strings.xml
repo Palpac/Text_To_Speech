@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text To Speech</string>
+    <string name="tts">Bonjour, comment allez-vous? Cette application utilise la fonction de lecture de texte. Vous pouvez modifier le texte selon vos souhaits. Le premier bouton lance la lecture, et le second la stoppe. Excellente journée à vous.</string>
+</resources>
