@@ -1,4 +1,6 @@
 # Text_To_Speech
+
+![Screenshot](https://github.com/Palpac/Text_To_Speech/blob/master/Text_To_Speech.png)
  
 Application Simple de Text To Speech pour Android en Français.
  
