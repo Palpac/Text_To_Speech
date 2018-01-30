@@ -11,11 +11,17 @@ Android Studio 3.0.1.
 
 
 Un TextEdit pour saisir le texte à lire. 
+
 Un bouton start pour lancer la lecture en Français du texte. 
+
 Un bouton stop pour arrêter le lecture. 
 
+
 TextToSpeech 
+
 toSpeech.setLanguage(Locale.FRANCE) 
+
+
 EditText 
 
 
